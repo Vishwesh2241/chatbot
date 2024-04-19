@@ -1,7 +1,7 @@
-node_modueles/
+node_modules/
 
 .npm
 
-.emv
+.env
 
-package-lock.json
+package-lock.json/
