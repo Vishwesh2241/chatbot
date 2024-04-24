@@ -52,7 +52,7 @@ function generateAnswer(keyword)
         case 'os':
             return 'The operating system of the product is kitkat.  ';
         case 'ram':
-            return 'The RAM of the product is 128px';
+            return 'The RAM of the product is 128 gb';
         default:
             return 'Ask a correct question.';
 
